@@ -6,3 +6,7 @@ Danh sách thành viên :
 Các lối tắt (thuận tiện cho việc nghiên cứu):
 - Download bài báo : https://sci-hub.se/
 - Github tensorflow/federated : 
+
+Date:
+- Thứ 5 - 29/09 chiều
+- Chủ nhật - 02/10 chiều
