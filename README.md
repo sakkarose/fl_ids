@@ -1,4 +1,4 @@
-# fl_ids
+# Intrusion Detection System based on Federated Learning
 Danh sách thành viên :
 - 19521529 - Đậu Trọng Hoàng
 - 19520441 - Lê Chí Đại
