@@ -6,4 +6,3 @@ Danh sách thành viên :
 Các lối tắt (thuận tiện cho việc nghiên cứu):
 - Download bài báo : https://sci-hub.se/
 - Github tensorflow/federated : 
-- a
