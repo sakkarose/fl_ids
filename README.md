@@ -10,5 +10,6 @@
 - Github tensorflow/federated : 
 
 ## Ngày họp :
+- Thứ 3 - 27/09 chiều
 - Thứ 5 - 29/09 chiều
 - Chủ nhật - 02/10 chiều
