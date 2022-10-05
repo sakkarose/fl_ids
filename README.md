@@ -7,7 +7,7 @@
 ## Các lối tắt (thuận tiện cho việc nghiên cứu):
 - Download bài báo : https://sci-hub.se/
 - Github tensorflow/federated : 
-- Ngày tổng hợp báo cáo tiến độ (T4 mỗi 2-3 tuần) : 05/10, 19/10, 2/11
+- Ngày tổng hợp báo cáo tiến độ (Cách 3-4 ngày) : 10/10 (13/10 T5 báo cáo)
 
 
 ## Ngày họp :
