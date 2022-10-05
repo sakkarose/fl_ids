@@ -14,3 +14,5 @@
 - Thứ 3 - 27/09 chiều
 - Thứ 5 - 29/09 chiều
 - Chủ nhật - 02/10 chiều
+
+## Phân chia công việc :
