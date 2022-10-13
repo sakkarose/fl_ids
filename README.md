@@ -27,14 +27,17 @@
   - Sau buổi họp : Tóm tắt những thông tin cần thiết từ các đề tài khóa trước và các bài báo để tiện việc tìm kiếm sau này. 
 - 02/10 :
   - Ở buổi họp : 
-  - Sau buổi họp : Tìm hiểu, tham khảo cấu hình môi trường ảo từ các bài báo và đề tài liên quan để chuẩn bị tài nguyên máy. Đồng thời thử triển khai môi trường ảo.
+  - Sau buổi họp : 
+    - Tìm hiểu, tham khảo cấu hình môi trường ảo từ các bài báo và đề tài liên quan để chuẩn bị tài nguyên máy. 
+    - Đồng thời thử triển khai môi trường ảo.
 - 10/10 :
   - Ở buổi họp : Tìm giải pháp thay thế cho môi trường ảo (vì cấu hình máy không thể đáp ứng với yêu cầu đã được tham khảo từ các bài báo và đề tài liên quan)
   - Sau buổi họp : Tìm hiểu về khả năng triển khai của Google Colaboratory với đề tài của nhóm.
 - 12/10 :
   - Ở buổi họp : Triển khai môi trường ảo trên Google Colaboratory. Tổng hợp các vướng mắc để sau buổi tìm hiểu thêm.
-  - Sau buổi họp : Tìm hiểu về cách sử dụng local runtime để sử dụng python 3.9, cách sử dụng Google Drive để làm ổ đĩa cho dataset và các thư viện.
-                   Nghiên cứu documentation về các câu lệnh của framework và chọn lọc ra những tutorial có thể hữu dụng cho đồ án.
+  - Sau buổi họp : 
+    - Tìm hiểu về cách sử dụng local runtime để sử dụng python 3.9, cách sử dụng Google Drive để làm ổ đĩa cho dataset và các thư viện.
+    - Nghiên cứu documentation về các câu lệnh của framework và chọn lọc ra những tutorial có thể hữu dụng cho đồ án.
 - 16/10 :
   - Ở buổi họp : Tổng hợp lại những nhận xét từ giảng viên để khắc phục sai sót, điều chỉnh lại hướng nghiên cứu và triển khai. 
 
