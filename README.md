@@ -27,15 +27,18 @@
   - Sau buổi họp : Tìm kiếm và nghiên cứu, chọn lọc các thông tin cần thiết từ các bài báo.
 - 29/09 : 
   - Ở buổi họp : Tìm kiếm, tổng hợp và nghiên cứu, chọn lọc các thông tin cần thiết từ các bài báo.
-  - Sau buổi họp : Tóm tắt những thông tin cần thiết từ các đề tài khóa trước và các bài báo để tiện việc tìm kiếm sau này. 
-- 02/10 :
-  - Ở buổi họp : 
   - Sau buổi họp : 
-    - Tìm hiểu, tham khảo cấu hình môi trường ảo từ các bài báo và đề tài liên quan để chuẩn bị tài nguyên máy. 
+    - Tóm tắt những thông tin cần thiết từ các đề tài khóa trước và các bài báo để tiện việc tìm kiếm sau này. 
+    - Tìm hiểu, tham khảo cấu hình môi trường ảo từ các bài báo và đề tài liên quan để chuẩn bị tài nguyên máy.
+- 02/10 :
+  - Ở buổi họp : Triển khai môi trường ảo trên máy.
+  - Sau buổi họp : 
+    - Tìm hiểu về khả năng triển khai của Google Colaboratory với đề tài của nhóm.
     - Đồng thời thử triển khai môi trường ảo.
 - 10/10 :
-  - Ở buổi họp : Tìm giải pháp thay thế cho môi trường ảo (vì cấu hình máy không thể đáp ứng với yêu cầu đã được tham khảo từ các bài báo và đề tài liên quan)
-  - Sau buổi họp : Tìm hiểu về khả năng triển khai của Google Colaboratory với đề tài của nhóm.
+  - Ở buổi họp : Tiếp tục tìm hiểu và triển khai trên GC và trên máy.
+  - Sau buổi họp :
+    - Tập hợp các lỗi để 
 - 12/10 :
   - Ở buổi họp : Triển khai môi trường ảo trên Google Colaboratory. Tổng hợp các vướng mắc để sau buổi tìm hiểu thêm.
   - Sau buổi họp : 
@@ -44,4 +47,5 @@
 - 16/10 :
   - Ở buổi họp : Tổng hợp lại những nhận xét từ giảng viên để khắc phục sai sót, điều chỉnh lại hướng nghiên cứu và triển khai. 
 
-- Hiện tại : Chỉ xong môi trường ảo, tensorflow đã được cài đặt nhưng vẫn chưa chạy thử, cần sử dụng local runtime vì giới hạn phiên bản python của GC là 3.7.
+## To-do
+- 
