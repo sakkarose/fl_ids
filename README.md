@@ -11,11 +11,12 @@
 
 
 ## Ngày họp :
-- Thứ 3 - 27/09
-- Thứ 5 - 29/09
-- Chủ nhật - 02/10
-- Chủ nhật - 10/10
-- Thứ 3 - 12/10
+- Thứ 3 - 27/09 CH
+- Thứ 5 - 29/09 CH
+- Chủ nhật - 02/10 Tối
+- Chủ nhật - 10/10 Tối
+- Thứ 3 - 12/10 CH
+- Thứ 6 - 14/10 CH
 
 ## Phân chia công việc :
 - 27/09 : 
@@ -34,5 +35,7 @@
   - Ở buổi họp : Triển khai môi trường ảo trên Google Colaboratory. Tổng hợp các vướng mắc để sau buổi tìm hiểu thêm.
   - Sau buổi họp : Tìm hiểu về cách sử dụng local runtime để sử dụng python 3.9, cách sử dụng Google Drive để làm ổ đĩa cho dataset và các thư viện.
                    Nghiên cứu documentation về các câu lệnh của framework và chọn lọc ra những tutorial có thể hữu dụng cho đồ án.
+- 16/10 :
+  - Ở buổi họp : Tổng hợp lại những nhận xét từ giảng viên để khắc phục sai sót, điều chỉnh lại hướng nghiên cứu và triển khai. 
 
 - Hiện tại : Chỉ xong môi trường ảo, tensorflow đã được cài đặt nhưng vẫn chưa chạy, cần sử dụng local runtime vì giới hạn phiên bản python của GC là 3.7.
