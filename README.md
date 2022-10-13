@@ -33,4 +33,6 @@
 - 12/10 :
   - Ở buổi họp : Triển khai môi trường ảo trên Google Colaboratory. Tổng hợp các vướng mắc để sau buổi tìm hiểu thêm.
   - Sau buổi họp : Tìm hiểu về cách sử dụng local runtime để sử dụng python 3.9, cách sử dụng Google Drive để làm ổ đĩa cho dataset và các thư viện.
+                   Nghiên cứu documentation về các câu lệnh của framework và chọn lọc ra những tutorial có thể hữu dụng cho đồ án.
+
 - Hiện tại : Chỉ xong môi trường ảo, tensorflow đã được cài đặt nhưng vẫn chưa chạy, cần sử dụng local runtime vì giới hạn phiên bản python của GC là 3.7.
