@@ -49,7 +49,7 @@
 - 16/10 :
   - Ở buổi họp : 
     - Tổng hợp lại những nhận xét từ giảng viên để khắc phục sai sót, điều chỉnh lại hướng nghiên cứu và triển khai. 
-    - Thêm các bài báo về dataset.
+    - Thêm các bài báo về dataset sẽ sử dụng (UNSW-NB15).
 
 ## To-do
 - Ở Google Colaboratory : Tiến hành cài đặt runtime riêng trên máy (Jupyter Notebook) với phiên bản python 3.9 (hoặc 3.8) để khắc phục lỗi.
