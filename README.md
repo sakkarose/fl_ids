@@ -43,4 +43,4 @@
 - 16/10 :
   - Ở buổi họp : Tổng hợp lại những nhận xét từ giảng viên để khắc phục sai sót, điều chỉnh lại hướng nghiên cứu và triển khai. 
 
-- Hiện tại : Chỉ xong môi trường ảo, tensorflow đã được cài đặt nhưng vẫn chưa chạy, cần sử dụng local runtime vì giới hạn phiên bản python của GC là 3.7.
+- Hiện tại : Chỉ xong môi trường ảo, tensorflow đã được cài đặt nhưng vẫn chưa chạy thử, cần sử dụng local runtime vì giới hạn phiên bản python của GC là 3.7.
