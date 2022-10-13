@@ -38,9 +38,11 @@
 - 10/10 :
   - Ở buổi họp : Tiếp tục tìm hiểu và triển khai trên GC và trên máy.
   - Sau buổi họp :
-    - Tập hợp các lỗi để 
+    - Tập hợp các lỗi để tìm cách sửa.
 - 12/10 :
-  - Ở buổi họp : Triển khai môi trường ảo trên Google Colaboratory. Tổng hợp các vướng mắc để sau buổi tìm hiểu thêm.
+  - Ở buổi họp : 
+    - Triển khai môi trường ảo trên Google Colaboratory. 
+    - Tổng hợp các vướng mắc để sau buổi tìm hiểu thêm.
   - Sau buổi họp : 
     - Tìm hiểu về cách sử dụng local runtime để sử dụng python 3.9, cách sử dụng Google Drive để làm ổ đĩa cho dataset và các thư viện.
     - Nghiên cứu documentation về các câu lệnh của framework và chọn lọc ra những tutorial có thể hữu dụng cho đồ án.
@@ -48,4 +50,7 @@
   - Ở buổi họp : Tổng hợp lại những nhận xét từ giảng viên để khắc phục sai sót, điều chỉnh lại hướng nghiên cứu và triển khai. 
 
 ## To-do
-- 
+- Ở Google Colaboratory : Tiến hành cài đặt runtime riêng trên máy với phiên bản python 3.9 (hoặc 3.8) để khắc phục lỗi.
+- Ở trên máy : Đã cài đặt và chạy thử thành công tensorflow/fl.
+- Đọc tiếp bài báo / sách về đề tài.
+- Tham khảo thêm các bài báo từ các đề tài khoa học liên quan.
