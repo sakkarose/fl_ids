@@ -9,6 +9,7 @@
 - Github tensorflow/federated : https://github.com/tensorflow/federated
 - Tutorial : https://github.com/tensorflow/federated/tree/main/docs/tutorials
 - Documentation : https://github.com/tensorflow/federated/tree/main/docs
+- Ổ đĩa cho GC : https://drive.google.com/drive/folders/17BKiPMtAjwN971DAePxkjpDbhkhiM5kD?usp=sharing
 - Ngày tổng hợp báo cáo tiến độ (Cách 2-3 ngày) : 11/10 (13/10 T5 báo cáo)
 
 
