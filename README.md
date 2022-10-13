@@ -7,6 +7,8 @@
 ## Các lối tắt (thuận tiện cho việc nghiên cứu):
 - Download bài báo : https://sci-hub.se/
 - Github tensorflow/federated : https://github.com/tensorflow/federated
+- Tutorial : https://github.com/tensorflow/federated/tree/main/docs/tutorials
+- Documentation : https://github.com/tensorflow/federated/tree/main/docs
 - Ngày tổng hợp báo cáo tiến độ (Cách 2-3 ngày) : 11/10 (13/10 T5 báo cáo)
 
 
