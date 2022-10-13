@@ -47,10 +47,12 @@
     - Tìm hiểu về cách sử dụng local runtime để sử dụng python 3.9, cách sử dụng Google Drive để làm ổ đĩa cho dataset và các thư viện.
     - Nghiên cứu documentation về các câu lệnh của framework và chọn lọc ra những tutorial có thể hữu dụng cho đồ án.
 - 16/10 :
-  - Ở buổi họp : Tổng hợp lại những nhận xét từ giảng viên để khắc phục sai sót, điều chỉnh lại hướng nghiên cứu và triển khai. 
+  - Ở buổi họp : 
+    - Tổng hợp lại những nhận xét từ giảng viên để khắc phục sai sót, điều chỉnh lại hướng nghiên cứu và triển khai. 
+    - Thêm các bài báo về dataset.
 
 ## To-do
 - Ở Google Colaboratory : Tiến hành cài đặt runtime riêng trên máy với phiên bản python 3.9 (hoặc 3.8) để khắc phục lỗi.
-- Ở trên máy : Đã cài đặt và chạy thử thành công tensorflow/fl với python 3.6.
+- Ở trên máy : Đã cài đặt và đang tiến hành chạy thử tensorflow/fl với python 3.6.
 - Đọc tiếp bài báo / sách về đề tài.
 - Tham khảo thêm các bài báo từ các đề tài khoa học liên quan.
