@@ -5,7 +5,6 @@
 
 
 ## Các lối tắt (thuận tiện cho việc nghiên cứu):
-- Download bài báo : https://sci-hub.se/
 - Github tensorflow/federated : https://github.com/tensorflow/federated
 - Tutorial : https://github.com/tensorflow/federated/tree/main/docs/tutorials
 - Documentation : https://github.com/tensorflow/federated/tree/main/docs
