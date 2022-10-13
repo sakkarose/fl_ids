@@ -52,6 +52,6 @@
 
 ## To-do
 - Ở Google Colaboratory : Tiến hành cài đặt runtime riêng trên máy (Jupyter Notebook) với phiên bản python 3.9 (hoặc 3.8) để khắc phục lỗi.
-- Ở trên máy : Đã cài đặt và đang tiến hành chạy thử tensorflow/fl với python 3.6.
+- Ở trên máy : Lỗi tương tự như ở GC, đang thử với phiên bản python 3.8.
 - Đọc tiếp bài báo / sách về đề tài.
 - Tham khảo thêm các bài báo từ các đề tài khoa học liên quan.
