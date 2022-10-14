@@ -5,7 +5,6 @@
 
 
 ## Các lối tắt (thuận tiện cho việc nghiên cứu):
-- Download bài báo : https://sci-hub.se/
 - Github tensorflow/federated : https://github.com/tensorflow/federated
 - Tutorial : https://github.com/tensorflow/federated/tree/main/docs/tutorials
 - Documentation : https://github.com/tensorflow/federated/tree/main/docs
@@ -53,6 +52,6 @@
 
 ## To-do
 - Ở Google Colaboratory : Tiến hành cài đặt runtime riêng trên máy (Jupyter Notebook) với phiên bản python 3.9 (hoặc 3.8) để khắc phục lỗi.
-- Ở trên máy : Đã cài đặt và đang tiến hành chạy thử tensorflow/fl với python 3.6.
+- Ở trên máy : Lỗi tương tự như ở GC, đang thử với phiên bản python 3.8.
 - Đọc tiếp bài báo / sách về đề tài.
 - Tham khảo thêm các bài báo từ các đề tài khoa học liên quan.
